@@ -1,5 +1,6 @@
-<img align="center" src="https://camo.githubusercontent.com/766aa7d4f671192f9b19af6c7aee3d7986f70acb12dc770b263f364c34192834/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966">
-<h1 align="center">Hi 👋, I'm Apurva</h1>
+<center><img src="https://camo.githubusercontent.com/766aa7d4f671192f9b19af6c7aee3d7986f70acb12dc770b263f364c34192834/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65312f38352f31382f65313835313863366432343235376336666230326533633935613836326438352e676966"></center>
+<h1 align="center">Hi, I'm Apurva Dharam</h1>
+<h2 align="center">A BTech student at KJSCE</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apurvadharam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurvadharam" height="30" width="40" /></a>
